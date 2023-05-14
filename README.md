@@ -18,3 +18,4 @@ I promote privacy, cryptography and freedom.
   - [ ] Finish cs50
   - [ ] Write configurable proxy in Rust
   - [ ] Build website/portfolio
+  - [ ] Learn Haskell
