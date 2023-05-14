@@ -1,5 +1,4 @@
-# warpsys
-Hello. My name is warpsys. I'm a programmer, cybersecurity enthusiast and wannabe hacker. I like writing about cybersecurity, programming and hacking.
+I'm a programmer, cybersecurity enthusiast and wannabe hacker. I like writing about cybersecurity, programming and hacking.
 
 I have a experience with a lot of technologies, but I'm most familiar with:
 - Rust
