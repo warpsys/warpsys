@@ -1,4 +1,4 @@
-# // INTRODUCTION
+# `// INTRODUCTION`
 
 I'm a programmer and a cybersecurity enthusiast. I like writing about cybersecurity, programming and hacking.
 
@@ -13,8 +13,8 @@ I want to build an ecosystem on the shoulders of purely open source software. I 
 I promote privacy, cryptography and freedom.
 
 
-# // TODOS
+# `// TODOS`
 
-[] Finish cs50
-[] Write configurable proxy in Rust
-[] Build website/portfolio
+  - [ ] Finish cs50
+  - [ ] Write configurable proxy in Rust
+  - [ ] Build website/portfolio
